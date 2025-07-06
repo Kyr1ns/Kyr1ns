@@ -1,5 +1,8 @@
 <!-- Banner atau Heading -->
-![](/img/github-header-image.png)
+<p align="center">
+  <img src="/img/github-header-image.png" alt="banner" />
+</p>
+
 <h1 align="center">Hey there 👋, I'm Oky R.</h1>
 <h3 align="center">Fullstack Developer | Game Dev | Problem Solver</h3>
 
