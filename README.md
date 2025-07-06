@@ -3,23 +3,15 @@
   <img src="/img/github-header-image.png" alt="banner" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Oky R.</h1>
-<h3 align="center">Fullstack Developer | Game Dev | Problem Solver</h3>
+<h1 align="center">Designing Systems. Solving Problems.</h1>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/follow/yourhandle?style=social" /></a>
-</p>
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on **a 2D top-down puzzle robot game using Godot Engine 4**
-- 🌱 I’m learning **AI for game mechanics and procedural generation**
-- 🛠️ I love building tools that solve real problems
-- 💬 Ask me about **Godot, Python, GDScript, JavaScript, or system design**
-- ⚡ Fun fact: I break things just to fix them better
+### 🧩 About Me
+- 🎓 Currently studying Electrical Engineering at **Universitas Jenderal Soedirman**
+- 🎮 Developing a puzzle robot game using **Godot Engine 4**
+- 🛠️ Passionate about logic design, systems thinking, and clean code
 
 ---
 
@@ -59,5 +51,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Happy+Coding!;Keep+building+cool+stuff!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Keep+creating.;Keep+shipping.;Keep+learning.;Never+stop+debugging." />
 </p>
