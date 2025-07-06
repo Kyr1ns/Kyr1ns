@@ -5,9 +5,6 @@
 
 <h1 align="center">Designing Systems. Solving Problems.</h1>
 
-
----
-
 ### 🧩 About Me
 - 🎓 Currently studying Electrical Engineering at **Universitas Jenderal Soedirman**
 - 🎮 Developing a puzzle robot game using **Godot Engine 4**
